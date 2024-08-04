@@ -1,4 +1,4 @@
-#切记
+#切记  
 公共API具有高风险可能  
 请使用与协议对应版本的SSOPlatform.dll文件  
 PcSecSign基于Pc平台，其它平台Sign计算的参数不同，不互通（例如：安卓）。  
